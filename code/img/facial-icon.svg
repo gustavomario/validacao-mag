@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60.996" height="59.996" viewBox="0 0 60.996 59.996">
+  <g id="Group_2149" data-name="Group 2149" transform="translate(-162.5 -460.5)">
+    <g id="Tela_Cheia_Icon" data-name="Tela Cheia Icon" transform="translate(164 462)">
+      <path id="Path_622" data-name="Path 622" d="M201.909,226.35H224.09v21.79" transform="translate(-166.095 -226.35)" fill="none" stroke="#0072bb" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_623" data-name="Path 623" d="M185.856,248.139V226.351h22.172" transform="translate(-185.856 -226.349)" fill="none" stroke="#0072bb" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_624" data-name="Path 624" d="M208.14,264.2H185.856v-21.79" transform="translate(-185.856 -207.202)" fill="none" stroke="#0072bb" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_625" data-name="Path 625" d="M224.09,242.407V264.2H201.909" transform="translate(-166.095 -207.202)" fill="none" stroke="#0072bb" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <circle id="Ellipse_135" data-name="Ellipse 135" cx="3.5" cy="3.5" r="3.5" transform="translate(178 480)" fill="#0872bb"/>
+    <circle id="Ellipse_136" data-name="Ellipse 136" cx="3" cy="3" r="3" transform="translate(200 480)" fill="#0872bb"/>
+    <path id="Path_1917" data-name="Path 1917" d="M9003.866,474.437s10.652,8.235,22,0" transform="translate(-8822 27)" fill="none" stroke="#0872bb" stroke-width="3"/>
+  </g>
+</svg>

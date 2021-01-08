@@ -1,0 +1,142 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.progress{
+    height: 10px;
+    background-color: #fff;
+    position: relative;
+    margin: 0 0 5px 0;
+}
+
+.progress .progress-bar{
+   position: absolute;
+   height: 100%;
+   background-color: #0072BB;
+   animation: progress-animation 2s;
+   -webkit-animation-fill-mode: forwards;
+}
+
+@keyframes progress-animation{
+    0% { width: 0%; }
+    100% { width: 50%}
+}
+
+.back-button {
+    text-align: left;
+}
+
+nav {
+    max-width: 860px;
+    height: 68px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    vertical-align: center;
+}
+
+nav p {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 600;
+    margin-top: 10px;
+    color: #0072BB;
+}
+
+.answer {
+    font-weight: 300;
+}
+
+.logo{
+    max-height: 42px;
+}
+
+main {
+    max-width: 860px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 600;
+    font-size: 3em;
+    text-align: left;
+    margin: 26px 0;
+    text-transform: uppercase;
+}
+
+main p {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 400;
+    font-size: 1.2em;
+    text-align: left;
+    margin: 10px 0 20px 0;
+    line-height: 26px;
+}
+
+table {
+    font-family: 'Titillium Web', sans-serif;
+    min-width:860px;
+}
+
+table tr th{
+    font-weight: 700;
+    color: #00A7E7;
+    height: 64px;
+}
+
+hr {
+    margin: 42px 0  26px 0;
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+button {
+    padding: ;
+    border-radius: 25px;
+    border: none;
+    background-color: #0872BB;
+    width: 198px;
+    height: 48px;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 1em;
+    letter-spacing: 1px;
+    font-weight: 500;
+    margin-top: 42px;
+    margin-bottom: 4em;
+}
+
+button:hover{
+    padding: ;
+    border-radius: 25px;
+    border: none;
+    background-color: #006098;
+    width: 198px;
+    height: 48px;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 1em;
+    letter-spacing: 1px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all .4s;
+    margin-top: 42px;
+}
+
+.recuse-button {
+    background-color: #fff;
+    color: #b8423e;
+    font-weight: 600;
+}
+
+.recuse-button:hover {
+    background-color: #fff;
+    color: #b8423e;
+    font-weight: 600;
+    text-decoration: underline;
+}
